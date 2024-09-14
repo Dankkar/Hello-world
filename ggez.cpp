@@ -3,6 +3,5 @@
 using namespace std;
 
 int main(){
-    cout << "vo duy hieu";
+    cout << "vo duy hieu" << endl;
 }
-//safafafafafaff
