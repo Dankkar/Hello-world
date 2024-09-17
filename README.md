@@ -17,4 +17,4 @@ Hồng Huy Hoàng - Làm video
 Phan Cảnh Đăng Huân - Làm Chương 2 bài báo cáo
 
 
-Phạm Lê Đăng Kha - Làm Chương 3 bài báo cáo
+Phạm Lê Đăng Kha - Nhóm trưởng, làm Chương 3 bài báo cáo
