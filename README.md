@@ -1,4 +1,6 @@
-https://drive.google.com/file/d/15OiWN6MBPgHhY5l6lSVzRgHO7lYO2evq/view
+Video sửa conflict: https://drive.google.com/file/d/15OiWN6MBPgHhY5l6lSVzRgHO7lYO2evq/view
+
+Video tập lệnh: https://drive.google.com/file/d/1oIpU8WW2J8REftWSv0aScOx75lLVsXvC/view
 
 Đây là repo của nhóm 8 về project Tìm hiểu Git và GitHub thuộc lớp SS004.P14
 
